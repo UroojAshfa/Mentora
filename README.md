@@ -7,7 +7,7 @@ Deployed seamlessly on **Vercel**, Mentora integrates **Next.js**, **Clerk**, **
 ---
 
 ## 🚀 Live Demo
-👉 **[Launch Mentora]((https://mentora-blush.vercel.app/))**
+👉 **[Launch Mentora](https://mentora-blush.vercel.app/)**
 
 
 ---
