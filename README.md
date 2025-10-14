@@ -9,7 +9,6 @@ Deployed seamlessly on **Vercel**, Mentora integrates **Next.js**, **Clerk**, **
 ## 🚀 Live Demo
 👉 **[Launch Mentora]((https://mentora-blush.vercel.app/))**
 
-*(No sign-in required for recruiters; use demo credentials if necessary.)*
 
 ---
 
